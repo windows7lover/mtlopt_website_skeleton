@@ -1,15 +1,15 @@
 title: Montreal MLOpt
 email: MontrealMLOptimization@gmail.com
 url: windows7lover.github.io
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-# theme: minima
-# theme: bulma-clean-theme
+theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
+
 plugins:
   - jekyll-feed
  
