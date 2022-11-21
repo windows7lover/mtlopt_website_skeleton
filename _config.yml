@@ -1,7 +1,7 @@
 title: Montreal MLOpt
 email: MontrealMLOptimization@gmail.com
-baseurl: ""
-url: "https://windows7lover.github.io/mtlopt_website_skeleton"
+baseurl: "/mtlopt_website_skeleton"
+url: "https://windows7lover.github.io"
 # url: "" 
 twitter_username: jekyllrb
 github_username:  jekyll
