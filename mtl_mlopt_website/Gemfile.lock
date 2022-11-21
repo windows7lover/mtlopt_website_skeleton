@@ -82,7 +82,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  bulma-clean-theme (~> 0.13.1)
+  bulma-clean-theme
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.1)
   jekyll-feed (~> 0.12)
