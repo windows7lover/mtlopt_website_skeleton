@@ -1,7 +1,5 @@
 - name: Blog
   link: about
-- name: Callouts
-  link: callouts_pages
 - name: Researchers
   link: researchers/all_researchers
   dropdown: 

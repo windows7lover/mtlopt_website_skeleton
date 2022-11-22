@@ -1,20 +1,20 @@
----
-layout: page
-title: Talks schedule
-description: Montreal Machine Learning and Optimization (MTL MLOpt) is a group of researchers living and working in Montréal.
-hero_height: is-fullwidth
----
-
+<p class="title is-4">Upcomming Talks</p>
 
 <div class="columns is-multiline">
 
+	{% assign max_talk_number = 3 %}
 
 	{% assign sortedtalks = site.talks_entries | sort: 'date' %}
 	
+	{% capture _ %}{% increment talk_number %}{% endcapture %}
     {% for talk in sortedtalks %}
 		{% if talk.date> site.time%}
 		
 			{% capture _ %}{% increment talk_number %}{% endcapture %}
+			{% if talk_number > max_talk_number %}
+				{% break %}
+			{% endif %}
+			
 			<div class="column is-12">
 				{% include post-card.html %}
 			</div>
