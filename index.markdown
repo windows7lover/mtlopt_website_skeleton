@@ -1,11 +1,12 @@
 ---
 layout: page
-title: MTL MLOpt
-subtitle: Montréal Machine Learning and Optimization
+title: Montréal Machine Learning and Optimization
+subtitle: MTL MLOpt
 description: Montreal Machine Learning and Optimization (MTL MLOpt) is a group of researchers living and working in Montréal.
 hero_image: site_images/Maths_banner.jpg
 hero_darken: true
 show_sidebar: true
+hero_height: is-fullwidth
 ---
 
 Montréal Machine Learning and Optimization (MTL MLOpt) is a group of researchers living and working in Montréal.

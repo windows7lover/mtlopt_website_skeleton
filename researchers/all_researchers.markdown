@@ -1,48 +1,16 @@
 ---
 layout: page
-title: Page With Contents
-hide_hero: true
+title: Researchers
+subtitle: MTL MLOpt
+hero_image: /site_images/Maths_banner.jpg
+hero_darken: true
+hero_height: is-fullwidth
 ---
 
-# MTLOpt Researchers #
-Lorem ipsum
-
-Lorem ipsum
-
-Lorem ipsum
-
-Lorem ipsum
-
-Lorem ipsum
-
-Lorem ipsum
-
-Lorem ipsum
-
-Lorem ipsum
-
-Lorem ipsum
-
-Lorem ipsum
-
-Lorem ipsum
-
-Lorem ipsum
-
-Lorem ipsum
-
-Lorem ipsum
-
-Lorem ipsum
-
-Lorem ipsum
-
-Lorem ipsum
-
 
 
 
-## Professors and Research Scientists ##
+# Professors and Research Scientists #
 
 Lorem ipsum
 
@@ -94,7 +62,7 @@ Lorem ipsum
 
 
 
-## Students and Postdocs ##
+# Students and Postdocs #
 
 Lorem ipsum
 
@@ -145,7 +113,7 @@ Lorem ipsum
 
 
 
-## Alumnis ##
+# Alumnis #
 
 Lorem ipsum
 
