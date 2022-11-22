@@ -1,0 +1,8 @@
+author: Author
+title: Talk title
+date: 2022-11-21 9:00am
+paper:
+  - Paper presented 1
+  - [Paper presented  2](www.google.com)
+abstract: This is the abstract of the talk
+room: Room H.07

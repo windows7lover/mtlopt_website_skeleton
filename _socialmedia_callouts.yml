@@ -1,6 +1,5 @@
 style: is-light
 height: is-medium
-icon_brand: true
 items:
   - title: Example callout 1
     subtitle: Example subtitle 1

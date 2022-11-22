@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Researchers
-subtitle: MTL MLOpt
-hero_image: /site_images/Maths_banner.jpg
-hero_darken: true
+# hero_image: /site_images/Maths_banner.jpg
+# hero_darken: true
 hero_height: is-fullwidth
 ---
 

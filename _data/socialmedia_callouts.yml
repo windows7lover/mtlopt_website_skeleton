@@ -1,0 +1,14 @@
+style: is-light
+height: is-medium
+items:
+  - icon: fa-calendar
+    call_to_action_name: Talks Schedule
+    call_to_action_link: talks
+  - icon_brand: true
+    icon: fa-brands fa-youtube
+    call_to_action_name: Recorded talks
+    call_to_action_link: https://www.youtube.com/playlist?list=PLqrJF7iQbscALPio49SSil8XDbfNAlOTO
+  - icon: fa-brands fa-twitter
+    icon_brand: true
+    call_to_action_name: Twitter
+    call_to_action_link: https://twitter.com/mtl_mlopt
