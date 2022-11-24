@@ -8,6 +8,12 @@ url: ""
 future: true
 
 collections:
+  prof_and_industry:
+    sort_by: name
+  students_and_postdocs:
+    sort_by: name
+  alumnis:
+    sort_by: name
   talks_entries:
     output: true
     
