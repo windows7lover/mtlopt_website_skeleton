@@ -1,8 +1,7 @@
 ---
-layout: post
-author: Author bis
-title: This is the title of an awesome talk.
-date: 2022-01-02 9:00am
+author: 3
+title: Talk 3
+date: 2023-01-03 9:00am
 room: Room H.07
 paper:
 ---

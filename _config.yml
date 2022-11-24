@@ -3,12 +3,22 @@ email: MontrealMLOptimization@gmail.com
 # baseurl: "/mtlopt_website_skeleton"
 # url: "https://windows7lover.github.io"
 baseurl: ""
-url: "" 
-twitter_username: jekyllrb
-github_username:  jekyll
+url: ""
+
+future: true
 
 collections:
-  - talks_entries
+  talks_entries:
+    output: true
+    
+defaults:
+  -
+    scope:
+      path: ""
+      type: "talks_entries" 
+    values:
+      layout: "talks"
+      hero_height: is-small
 
 # Build settings
 theme: bulma-clean-theme
@@ -16,8 +26,6 @@ theme: bulma-clean-theme
 
 plugins:
   - jekyll-feed
-  
-markdown: kramdown
  
 remote_theme: chrisrhymes/bulma-clean-theme
 

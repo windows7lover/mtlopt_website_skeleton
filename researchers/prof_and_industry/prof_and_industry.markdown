@@ -1,1 +1,0 @@
-prof and industry

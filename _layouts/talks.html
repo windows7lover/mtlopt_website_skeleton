@@ -1,0 +1,37 @@
+---
+layout: page
+---
+
+
+<h2> Author: {{page.author}} </h2>
+
+<div> {{page.room}} at {{page.date | date: "%B %d, %Y at %H:%M" }}. </div>
+
+
+{% if page.paper %}
+<h3> References </h3>
+<ul>
+{% for p in page.paper %}
+<li> {{p}} </li>
+{% endfor %}
+</ul>
+{%endif%}
+
+<h3> Abstract </h3>
+
+<div> {{page.content}}</div>
+
+
+<div class="tags">
+    {% for tag in page.tags %}
+      {% include tag.html tag=tag %}
+    {% endfor %}
+</div>
+
+{% unless site.hide_share_buttons %}
+{% include share-buttons.html %}
+{% endunless %}
+
+{% if site.disqus.shortname %}
+  {% include disqus.html %}
+{% endif %}
