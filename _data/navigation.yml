@@ -1,5 +1,5 @@
-- name: Blog
-  link: about
+- name: Talks schedule
+  link: talks
 - name: Researchers
   link: researchers/all_researchers
   dropdown: 

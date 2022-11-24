@@ -16,6 +16,8 @@ theme: bulma-clean-theme
 
 plugins:
   - jekyll-feed
+  
+markdown: kramdown
  
 remote_theme: chrisrhymes/bulma-clean-theme
 
