@@ -27,8 +27,8 @@ defaults:
       hero_height: is-small
 
 # Build settings
-theme: bulma-clean-theme
-# remote_theme: chrisrhymes/bulma-clean-theme
+# theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 
 plugins:
   - jekyll-feed
