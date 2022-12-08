@@ -15,8 +15,6 @@ hero_height: is-fullwidth
 
 # Students and Postdocs #
 
-dfor %}
-
 {% for researcher in site.students_and_postdocs %}
 	{{researcher.name}}
 {% endfor %}
