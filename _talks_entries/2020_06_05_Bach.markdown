@@ -1,7 +1,7 @@
 ---
 author: Francis Bach
 title: On the effectiveness of Richardson Extrapolation in Machine Learning
-date: 2022-06-05 4:00pm
+date: 2020-06-05 4:00pm
 room: Room H.07
 paper: https://arxiv.org/abs/2002.02835
 video: xvAm3wmmO3g
