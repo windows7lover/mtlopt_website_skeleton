@@ -1,6 +1,6 @@
 ---
 author: Adam Oberman
-title: Accelerated stochastic gradient descent: convergence rate and empirical results
+title: Accelerated stochastic gradient descent, convergence rate and empirical results
 date: 2020-05-01 4:00pm
 paper: https://arxiv.org/abs/1908.07861
 ---
