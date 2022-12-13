@@ -1,9 +1,9 @@
 title: Montreal MLOpt
 email: MontrealMLOptimization@gmail.com
-baseurl: "/mtlopt_website_skeleton"
-url: "https://windows7lover.github.io"
-# baseurl: ""
-# url: ""
+# baseurl: "/mtlopt_website_skeleton"
+# url: "https://windows7lover.github.io"
+baseurl: ""
+url: ""
 
 future: true
 
@@ -27,8 +27,8 @@ defaults:
       hero_height: is-small
 
 # Build settings
-# theme: bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+theme: bulma-clean-theme
+# remote_theme: chrisrhymes/bulma-clean-theme
 
 plugins:
   - jekyll-feed
