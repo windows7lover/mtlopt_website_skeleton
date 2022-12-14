@@ -1,0 +1,17 @@
+
+{% if researcher.website %}
+<a href="{{researcher.website}}">
+{% endif %}
+<div>
+{% if researcher.photo %}
+<img class="img-circle" src="photo/{{researcher.photo}}">
+{% else %}
+<img class="img-circle" src="photo/avatar_empty.png">
+{% endif %}
+<div class="researcher_name">{{  researcher.name  }}</div>
+<div class="researcher_institution">{{  researcher.institution  }}</div>
+</div>
+{% if researcher.website %}
+</a>
+{% endif %}
+

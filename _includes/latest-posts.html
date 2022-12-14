@@ -1,10 +1,13 @@
-<p class="title is-4">Upcomming Talks</p>
+
+
+{% assign sortedtalks = site.talks_entries | sort: 'date' %}
+{% if sortedtalks.last.date > site.time %}
+
+<p class="title is-4">Upcoming Talks</p>
 
 <div class="columns is-multiline">
 
 	{% assign max_talk_number = 3 %}
-
-	{% assign sortedtalks = site.talks_entries | sort: 'date' %}
 	
 	{% capture _ %}{% increment talk_number %}{% endcapture %}
     {% for talk in sortedtalks %}
@@ -25,3 +28,6 @@
 	
 	
 </div>
+{% else %}
+<p class="title is-4">No Upcoming Talks</p>
+{% endif %}

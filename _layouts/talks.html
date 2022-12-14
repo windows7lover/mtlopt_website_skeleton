@@ -5,7 +5,8 @@ layout: page
 
 <h2> Speaker: {{page.author}} </h2>
 
-<div> {{page.room}} at {{page.date | date: "%B %d, %Y at %H:%M" }}. </div>
+<div> <b>Where:</b> {{page.room}}.</div> 
+<div> <b>When:</b> {{page.date | date: "%B %d, %Y at %H:%M" }}.</div>
 
 {% if page.video %}
 {% include youtube.html video=page.video %}

@@ -1,6 +1,5 @@
 ---
-name: Damien Scieur
+name: almumni5
 institution: Samsung SAIL Montreal
 photo: damienscieur.jpg
-website: https://damienscieur.com
 ---
