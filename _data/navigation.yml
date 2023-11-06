@@ -1,13 +1,13 @@
 - name: Talks schedule
   link: talks
-- name: Researchers
-  link: all_researchers
+- name: Organizers
+  link: organizers
   dropdown: 
-    - name: All Researchers
-      link: /all_researchers
-    - name: Professeors and Research Scientists
-      link: /all_researchers#professeors-and-research-scientists
-    - name: Students and Postdocs
-      link: /all_researchers#students-and-postdocs
+    - name: All 
+      link: /organizers
+    - name: Current
+      link: /organizers#current
     - name: Alumnis
-      link: /all_researchers#alumnis
+      link: /organizers#alumnis
+- name: Archive
+  link: ./archive/index.html

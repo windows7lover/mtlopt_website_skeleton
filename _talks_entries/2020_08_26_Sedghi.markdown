@@ -2,5 +2,5 @@
 author: Hanie Sedghi
 title: What is being transferred in transfer learning?
 date: 2020-08-26 4:00pm
-room: Room H.07
+room: Virtual
 ---

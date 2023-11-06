@@ -8,7 +8,7 @@ items:
     icon: fa-brands fa-youtube
     call_to_action_name: Recorded talks
     call_to_action_link: https://www.youtube.com/playlist?list=PLqrJF7iQbscALPio49SSil8XDbfNAlOTO
-  - icon: fa-brands fa-twitter
+  - icon: fa-brands fa-x-twitter
     icon_brand: true
-    call_to_action_name: Twitter
+    call_to_action_name: X (Twitter)
     call_to_action_link: https://twitter.com/mtl_mlopt

@@ -2,6 +2,7 @@
 author: Mark Schmidt
 title: Faster Algorithms for Deep Learning?
 date: 2020-04-17 4:00pm
+room: Virtual
 paper: https://papers.nips.cc/paper/2019/hash/2557911c1bf75c2b643afb4ecbfc8ec2-Abstract.html
 video: nk4M-kYvaNU
 ---

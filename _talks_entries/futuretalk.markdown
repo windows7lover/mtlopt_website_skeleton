@@ -1,6 +1,7 @@
 ---
 author: Future speaker
 title: Future talk
-date: 2023-12-02 4:00pm
-room: Room H.07
+date: 2023-09-01 1:00pm
+paper:
+room: TBD
 ---

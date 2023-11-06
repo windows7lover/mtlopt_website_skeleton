@@ -1,16 +1,12 @@
 title: Montreal MLOpt
 email: MontrealMLOptimization@gmail.com
-baseurl: "/mtlopt_website_skeleton"
-url: "https://windows7lover.github.io"
-# baseurl: ""
-# url: ""
+baseurl: ""
+url: ""
 
 future: true
 
 collections:
-  prof_and_industry:
-    sort_by: name
-  students_and_postdocs:
+  current_organizers:
     sort_by: name
   alumnis:
     sort_by: name
@@ -38,7 +34,6 @@ remote_theme: chrisrhymes/bulma-clean-theme
 # Theme-related config
 lang: en
 fixed_navbar: top
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
