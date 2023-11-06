@@ -2,7 +2,7 @@
 author: Tim Hoheisel
 title: Cone-Convexity and Composite Functions
 date: 2020-05-22 4:00pm
-room: Room H.07
+room: Virtual
 paper: https://arxiv.org/abs/1907.08318
 ---
 

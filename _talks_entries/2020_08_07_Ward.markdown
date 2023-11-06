@@ -2,5 +2,5 @@
 author: Rachel Ward
 title: Weighted Optimization, better generalization by smoother interpolation
 date: 2020-08-07 4:00pm
-room: Room H.07
+room: Virtual
 ---

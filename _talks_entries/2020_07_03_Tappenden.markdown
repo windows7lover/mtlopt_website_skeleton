@@ -2,7 +2,7 @@
 author: Rachael Tappenden
 title: Accelerated Gradient Methods with Optimality Certificates
 date: 2020-07-03 4:00pm
-room: Room H.07
+room: Virtual
 paper: https://arxiv.org/abs/1710.03695
 ---
 

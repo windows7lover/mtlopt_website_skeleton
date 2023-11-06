@@ -4,10 +4,9 @@ source "https://rubygems.org"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" and uncomment "github-pages".
 # gem "jekyll", "~> 4.3.1"
 gem "github-pages", group: :jekyll_plugins
-
-
 gem 'bulma-clean-theme'
 
+gem "webrick"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

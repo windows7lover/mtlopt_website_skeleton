@@ -2,7 +2,7 @@
 author: Peter Richtarik
 title: On Second Order Methods and Randomness
 date: 2020-05-08 4:00pm
-room: Room H.07
+room: Virtual
 paper: https://arxiv.org/abs/1912.01597
 video: wXyXjTgINJI
 ---
